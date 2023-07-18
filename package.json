@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://bullet03.github.io/infinite-scroll",
+  "homepage": "https://bullet03.github.io/infinite-scroll",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
